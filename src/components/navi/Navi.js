@@ -15,7 +15,7 @@ export default function Navi() {
   return (
     <div>
       <Navbar color="light" light expand="md">
-        <NavbarBrand href="/">reactstrap</NavbarBrand>
+        <NavbarBrand href="/">Eren's Shop App</NavbarBrand>
         <NavbarToggler />
         <Collapse navbar>
           <Nav className="mr-auto" navbar>
